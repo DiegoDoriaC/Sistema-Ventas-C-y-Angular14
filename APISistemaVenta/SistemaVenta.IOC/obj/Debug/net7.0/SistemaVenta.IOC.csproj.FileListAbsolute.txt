@@ -1,0 +1,11 @@
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.deps.json
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.dll
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.pdb
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.AssemblyInfoInputs.cache
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.AssemblyInfo.cs
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.csproj.CoreCompileInputs.cache
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.dll
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\refint\SistemaVenta.IOC.dll
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.pdb
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\ref\SistemaVenta.IOC.dll
