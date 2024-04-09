@@ -9,3 +9,16 @@ C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\
 C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\refint\SistemaVenta.IOC.dll
 C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.pdb
 C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\ref\SistemaVenta.IOC.dll
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.BLL.dll
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DAL.dll
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Utility.dll
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.BLL.pdb
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DAL.pdb
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.csproj.AssemblyReference.cache
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.sourcelink.json
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaV.CF7CC950.Up2Date

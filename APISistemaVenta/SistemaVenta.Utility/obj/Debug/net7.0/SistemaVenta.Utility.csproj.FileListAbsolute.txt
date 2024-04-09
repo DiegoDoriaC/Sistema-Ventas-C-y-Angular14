@@ -9,3 +9,10 @@ C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.Util
 C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\refint\SistemaVenta.Utility.dll
 C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.pdb
 C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\ref\SistemaVenta.Utility.dll
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.AssemblyReference.cache
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.sourcelink.json
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaV.10E87F00.Up2Date
