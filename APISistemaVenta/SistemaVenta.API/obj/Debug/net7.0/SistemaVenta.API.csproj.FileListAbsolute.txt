@@ -82,3 +82,5 @@ C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.API\
 C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.API\bin\Debug\net7.0\SistemaVenta.Model.pdb
 C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.API\bin\Debug\net7.0\SistemaVenta.Utility.pdb
 C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.API\obj\Debug\net7.0\SistemaVenta.API.sourcelink.json
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

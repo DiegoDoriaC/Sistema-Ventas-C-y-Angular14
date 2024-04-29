@@ -1,14 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "iwoKHI8afyBfzg7sY67++eTRv/OnrOqXkf3cz/f4SmyO0mL0Y2/epEJZShGFrnrjQ1NTV+oehL3Fj9XEC4Fyzw==",
+  "dgSpecHash": "QW5KaCrPWIpeozglsw28uR0jTWC+EKfe5its168nXIBla3ym0ovxWbkIvJ2vBBJiQaYR73TnQMHyEvgG6kGZiA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Diego D\\Desktop\\Sistema C# Angular 14\\APISistemaVenta\\SistemaVenta.API\\SistemaVenta.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Diego D\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Diego D\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\Diego D\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Diego D\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\Diego D\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.17\\microsoft.aspnetcore.openapi.7.0.17.nupkg.sha512",
     "C:\\Users\\Diego D\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\Diego D\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Diego D\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Diego D\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
     "C:\\Users\\Diego D\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.1\\microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
     "C:\\Users\\Diego D\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.1\\microsoft.entityframeworkcore.7.0.1.nupkg.sha512",
