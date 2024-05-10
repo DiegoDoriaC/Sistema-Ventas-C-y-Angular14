@@ -20,4 +20,9 @@ public partial class Usuario
     public DateTime? FechaRegistro { get; set; }
 
     public virtual Rol? IdRolNavigation { get; set; }
+
+    public static explicit operator Usuario(Task<Usuario> v)
+    {
+        throw new NotImplementedException();
+    }
 }

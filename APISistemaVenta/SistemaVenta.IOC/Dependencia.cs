@@ -10,8 +10,11 @@ using Microsoft.Extensions.DependencyInjection;
 using SistemaVenta.DAL.DBContext;
 using SistemaVenta.DAL.Repositorios;
 using SistemaVenta.DAL.Repositorios.Contrato;
+using SistemaVenta.BLL.Servicios.Contrato;
+using SistemaVenta.BLL.Servicios;
 
 using SistemaVenta.Utility;
+using System.Security.Principal;
 
 namespace SistemaVenta.IOC
 {
@@ -29,6 +32,13 @@ namespace SistemaVenta.IOC
 
             services.AddAutoMapper(typeof(AutoMapperProfile));
 
+            services.AddScoped<IRolService, RolService>();
+            services.AddScoped<IUsuarioService, UsuarioService>();
+            services.AddScoped<ICategoriaService, CategoriaService>();
+            services.AddScoped<IProductoService, ProductoService>();
+            services.AddScoped<IVentaService, VentaService>();
+            services.AddScoped<IDashBoardService, DashBoardService>();
+            services.AddScoped<IMenuService, MenuService>();
         }
     }
 }

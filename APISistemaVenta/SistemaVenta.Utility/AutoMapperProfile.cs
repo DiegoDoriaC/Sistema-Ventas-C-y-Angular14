@@ -38,7 +38,7 @@ namespace SistemaVenta.Utility
             #region UsuarioDTO
             CreateMap<UsuarioDTO, Usuario>()
                 .ForMember(destino => destino.EsActivo, options => options.MapFrom(origen => origen.EsActivo == 1 ? true : false))
-                .ForMember(destino => destino.IdRolNavigation.Nombre, options => options.Ignore());
+                .ForMember(destino => destino.IdRolNavigation, options => options.Ignore());
             #endregion UsuarioDTO
 
             #region Categoria

@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Diego D\\Desktop\\Sistema C# Angular 14\\APISistemaVenta\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1698BE5-50BD-406B-866D-57041D0FB07D}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\diego d\\desktop\\sistema c# angular 14\\apisistemaventa\\sistemaventa.bll\\servicios\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1698BE5-50BD-406B-866D-57041D0FB07D}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\servicios\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71404EF8-7BD4-4E91-AAC6-A01F8CA64106}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|c:\\users\\diego d\\desktop\\sistema c# angular 14\\apisistemaventa\\sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71404EF8-7BD4-4E91-AAC6-A01F8CA64106}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|solutionrelative:sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 244,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Diego D\\Desktop\\Sistema C# Angular 14\\APISistemaVenta\\SistemaVenta.BLL\\Servicios\\ProductoService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Servicios\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\Diego D\\Desktop\\Sistema C# Angular 14\\APISistemaVenta\\SistemaVenta.BLL\\Servicios\\ProductoService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Servicios\\ProductoService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAADYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:06:55.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dependencia.cs",
+              "DocumentMoniker": "C:\\Users\\Diego D\\Desktop\\Sistema C# Angular 14\\APISistemaVenta\\SistemaVenta.IOC\\Dependencia.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.IOC\\Dependencia.cs",
+              "ToolTip": "C:\\Users\\Diego D\\Desktop\\Sistema C# Angular 14\\APISistemaVenta\\SistemaVenta.IOC\\Dependencia.cs",
+              "RelativeToolTip": "SistemaVenta.IOC\\Dependencia.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwCoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:03:56.339Z",
+              "EditorCaption": ""
             }
           ]
         }
