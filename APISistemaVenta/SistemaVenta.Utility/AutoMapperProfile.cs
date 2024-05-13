@@ -54,7 +54,7 @@ namespace SistemaVenta.Utility
 
             #region Producto
             CreateMap<ProductoDTO, Producto>()
-                .ForMember(destino => destino.IdCategoriaNavigation.Nombre, options => options.Ignore())
+                .ForMember(destino => destino.IdCategoriaNavigation, options => options.Ignore())
                 .ForMember(destino => destino.Precio, options => options.MapFrom(origen => Convert.ToDecimal(origen.Precio, new CultureInfo("es-PE"))))
                 .ForMember(destino => destino.EsActivo, options => options.MapFrom(origen => origen.EsActivo == 1 ? true : false));
             #endregion Producto

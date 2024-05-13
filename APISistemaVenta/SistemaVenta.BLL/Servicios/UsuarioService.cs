@@ -69,7 +69,8 @@ namespace SistemaVenta.BLL.Servicios
 
                 var query = await _repository.Consultar(u => u.IdUsuario == usuarioCreado.IdUsuario);
                 usuarioCreado = query.Include(rol => rol.IdRolNavigation).First();
-                return _mapper.Map<UsuarioDTO>(usuarioCreado);
+                var convertido = _mapper.Map<UsuarioDTO>(usuarioCreado);
+                return convertido;
             }
             catch
             {
