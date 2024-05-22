@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0FlNnsxgLRec0zc+1Kn1eVj8cCiVm2VmEzTl2RoYeVNcELpInaYonI/FkkVSwLlCvx8JTRBX1P7jwOjXlItcgQ==",
+  "dgSpecHash": "VRfOzP6xdLgl09nJjVNo+Q4OTO0NX+yzvBHAqddlwuKlc4u+uoh/t7mUoH1wzqthMAR1oNNvLBJybOSTNeL6zg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Diego D\\Desktop\\Sistema C# Angular 14\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Diego D\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\Diego D\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\Diego D\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Diego D\\Desktop\\Cursos\\C#\\CodigoEstudiante - Sistema C# Angular 14\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

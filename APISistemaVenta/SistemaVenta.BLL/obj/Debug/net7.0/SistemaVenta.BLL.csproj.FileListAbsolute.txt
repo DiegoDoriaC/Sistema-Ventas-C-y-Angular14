@@ -20,3 +20,25 @@ C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.BLL\
 C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.csproj.AssemblyReference.cache
 C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.sourcelink.json
 C:\Users\Diego D\Desktop\Sistema C# Angular 14\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\SistemaV.93BC7325.Up2Date
+C:\Users\Diego D\Desktop\Cursos\C#\CodigoEstudiante - Sistema C# Angular 14\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.BLL.deps.json
+C:\Users\Diego D\Desktop\Cursos\C#\CodigoEstudiante - Sistema C# Angular 14\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.BLL.dll
+C:\Users\Diego D\Desktop\Cursos\C#\CodigoEstudiante - Sistema C# Angular 14\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.BLL.pdb
+C:\Users\Diego D\Desktop\Cursos\C#\CodigoEstudiante - Sistema C# Angular 14\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.DAL.dll
+C:\Users\Diego D\Desktop\Cursos\C#\CodigoEstudiante - Sistema C# Angular 14\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\Users\Diego D\Desktop\Cursos\C#\CodigoEstudiante - Sistema C# Angular 14\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\Users\Diego D\Desktop\Cursos\C#\CodigoEstudiante - Sistema C# Angular 14\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.Utility.dll
+C:\Users\Diego D\Desktop\Cursos\C#\CodigoEstudiante - Sistema C# Angular 14\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.DAL.pdb
+C:\Users\Diego D\Desktop\Cursos\C#\CodigoEstudiante - Sistema C# Angular 14\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\Users\Diego D\Desktop\Cursos\C#\CodigoEstudiante - Sistema C# Angular 14\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\Users\Diego D\Desktop\Cursos\C#\CodigoEstudiante - Sistema C# Angular 14\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\Users\Diego D\Desktop\Cursos\C#\CodigoEstudiante - Sistema C# Angular 14\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.csproj.AssemblyReference.cache
+C:\Users\Diego D\Desktop\Cursos\C#\CodigoEstudiante - Sistema C# Angular 14\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego D\Desktop\Cursos\C#\CodigoEstudiante - Sistema C# Angular 14\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.AssemblyInfoInputs.cache
+C:\Users\Diego D\Desktop\Cursos\C#\CodigoEstudiante - Sistema C# Angular 14\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.AssemblyInfo.cs
+C:\Users\Diego D\Desktop\Cursos\C#\CodigoEstudiante - Sistema C# Angular 14\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Diego D\Desktop\Cursos\C#\CodigoEstudiante - Sistema C# Angular 14\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.sourcelink.json
+C:\Users\Diego D\Desktop\Cursos\C#\CodigoEstudiante - Sistema C# Angular 14\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\SistemaV.93BC7325.Up2Date
+C:\Users\Diego D\Desktop\Cursos\C#\CodigoEstudiante - Sistema C# Angular 14\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.dll
+C:\Users\Diego D\Desktop\Cursos\C#\CodigoEstudiante - Sistema C# Angular 14\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\refint\SistemaVenta.BLL.dll
+C:\Users\Diego D\Desktop\Cursos\C#\CodigoEstudiante - Sistema C# Angular 14\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.pdb
+C:\Users\Diego D\Desktop\Cursos\C#\CodigoEstudiante - Sistema C# Angular 14\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\ref\SistemaVenta.BLL.dll
