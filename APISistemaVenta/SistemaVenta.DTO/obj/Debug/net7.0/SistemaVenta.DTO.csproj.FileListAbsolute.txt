@@ -22,3 +22,15 @@ C:\Users\Diego D\Desktop\Cursos\C#\CodigoEstudiante - Sistema C# Angular 14\APIS
 C:\Users\Diego D\Desktop\Cursos\C#\CodigoEstudiante - Sistema C# Angular 14\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\refint\SistemaVenta.DTO.dll
 C:\Users\Diego D\Desktop\Cursos\C#\CodigoEstudiante - Sistema C# Angular 14\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.pdb
 C:\Users\Diego D\Desktop\Cursos\C#\CodigoEstudiante - Sistema C# Angular 14\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\ref\SistemaVenta.DTO.dll
+C:\Users\Diego D\Desktop\Cursos\C\CodigoEstudiante - Sistema C Angular 14\APISistemaVenta\SistemaVenta.DTO\bin\Debug\net7.0\SistemaVenta.DTO.deps.json
+C:\Users\Diego D\Desktop\Cursos\C\CodigoEstudiante - Sistema C Angular 14\APISistemaVenta\SistemaVenta.DTO\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\Users\Diego D\Desktop\Cursos\C\CodigoEstudiante - Sistema C Angular 14\APISistemaVenta\SistemaVenta.DTO\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\Users\Diego D\Desktop\Cursos\C\CodigoEstudiante - Sistema C Angular 14\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego D\Desktop\Cursos\C\CodigoEstudiante - Sistema C Angular 14\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.AssemblyInfoInputs.cache
+C:\Users\Diego D\Desktop\Cursos\C\CodigoEstudiante - Sistema C Angular 14\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.AssemblyInfo.cs
+C:\Users\Diego D\Desktop\Cursos\C\CodigoEstudiante - Sistema C Angular 14\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Diego D\Desktop\Cursos\C\CodigoEstudiante - Sistema C Angular 14\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.sourcelink.json
+C:\Users\Diego D\Desktop\Cursos\C\CodigoEstudiante - Sistema C Angular 14\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.dll
+C:\Users\Diego D\Desktop\Cursos\C\CodigoEstudiante - Sistema C Angular 14\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\refint\SistemaVenta.DTO.dll
+C:\Users\Diego D\Desktop\Cursos\C\CodigoEstudiante - Sistema C Angular 14\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\Users\Diego D\Desktop\Cursos\C\CodigoEstudiante - Sistema C Angular 14\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\ref\SistemaVenta.DTO.dll

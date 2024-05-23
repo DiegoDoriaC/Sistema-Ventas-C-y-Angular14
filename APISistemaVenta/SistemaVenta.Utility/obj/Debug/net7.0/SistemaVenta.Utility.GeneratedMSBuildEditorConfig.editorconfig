@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SistemaVenta.Utility
-build_property.ProjectDir = C:\Users\Diego D\Desktop\Cursos\C#\CodigoEstudiante - Sistema C# Angular 14\APISistemaVenta\SistemaVenta.Utility\
+build_property.ProjectDir = C:\Users\Diego D\Desktop\Cursos\C\CodigoEstudiante - Sistema C Angular 14\APISistemaVenta\SistemaVenta.Utility\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Diego D\\Desktop\\Cursos\\C#\\CodigoEstudiante - Sistema C# Angular 14\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {}
+    "C:\\Users\\Diego D\\Desktop\\Cursos\\C\\CodigoEstudiante - Sistema C Angular 14\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Diego D\\Desktop\\Cursos\\C#\\CodigoEstudiante - Sistema C# Angular 14\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
+    "C:\\Users\\Diego D\\Desktop\\Cursos\\C\\CodigoEstudiante - Sistema C Angular 14\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diego D\\Desktop\\Cursos\\C#\\CodigoEstudiante - Sistema C# Angular 14\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\Diego D\\Desktop\\Cursos\\C\\CodigoEstudiante - Sistema C Angular 14\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
         "projectName": "SistemaVenta.DTO",
-        "projectPath": "C:\\Users\\Diego D\\Desktop\\Cursos\\C#\\CodigoEstudiante - Sistema C# Angular 14\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
+        "projectPath": "C:\\Users\\Diego D\\Desktop\\Cursos\\C\\CodigoEstudiante - Sistema C Angular 14\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
         "packagesPath": "C:\\Users\\Diego D\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diego D\\Desktop\\Cursos\\C#\\CodigoEstudiante - Sistema C# Angular 14\\APISistemaVenta\\SistemaVenta.DTO\\obj\\",
+        "outputPath": "C:\\Users\\Diego D\\Desktop\\Cursos\\C\\CodigoEstudiante - Sistema C Angular 14\\APISistemaVenta\\SistemaVenta.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\Diego D\\Desktop\\Cursos\\C#\\CodigoEstudiante - Sistema C# Angular 14\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+    "C:\\Users\\Diego D\\Desktop\\Cursos\\C\\CodigoEstudiante - Sistema C Angular 14\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diego D\\Desktop\\Cursos\\C#\\CodigoEstudiante - Sistema C# Angular 14\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Diego D\\Desktop\\Cursos\\C\\CodigoEstudiante - Sistema C Angular 14\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
         "projectName": "SistemaVenta.Model",
-        "projectPath": "C:\\Users\\Diego D\\Desktop\\Cursos\\C#\\CodigoEstudiante - Sistema C# Angular 14\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+        "projectPath": "C:\\Users\\Diego D\\Desktop\\Cursos\\C\\CodigoEstudiante - Sistema C Angular 14\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
         "packagesPath": "C:\\Users\\Diego D\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diego D\\Desktop\\Cursos\\C#\\CodigoEstudiante - Sistema C# Angular 14\\APISistemaVenta\\SistemaVenta.Model\\obj\\",
+        "outputPath": "C:\\Users\\Diego D\\Desktop\\Cursos\\C\\CodigoEstudiante - Sistema C Angular 14\\APISistemaVenta\\SistemaVenta.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\Diego D\\Desktop\\Cursos\\C#\\CodigoEstudiante - Sistema C# Angular 14\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
+    "C:\\Users\\Diego D\\Desktop\\Cursos\\C\\CodigoEstudiante - Sistema C Angular 14\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diego D\\Desktop\\Cursos\\C#\\CodigoEstudiante - Sistema C# Angular 14\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\Diego D\\Desktop\\Cursos\\C\\CodigoEstudiante - Sistema C Angular 14\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
         "projectName": "SistemaVenta.Utility",
-        "projectPath": "C:\\Users\\Diego D\\Desktop\\Cursos\\C#\\CodigoEstudiante - Sistema C# Angular 14\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
+        "projectPath": "C:\\Users\\Diego D\\Desktop\\Cursos\\C\\CodigoEstudiante - Sistema C Angular 14\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
         "packagesPath": "C:\\Users\\Diego D\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diego D\\Desktop\\Cursos\\C#\\CodigoEstudiante - Sistema C# Angular 14\\APISistemaVenta\\SistemaVenta.Utility\\obj\\",
+        "outputPath": "C:\\Users\\Diego D\\Desktop\\Cursos\\C\\CodigoEstudiante - Sistema C Angular 14\\APISistemaVenta\\SistemaVenta.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -172,11 +172,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Diego D\\Desktop\\Cursos\\C#\\CodigoEstudiante - Sistema C# Angular 14\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
-                "projectPath": "C:\\Users\\Diego D\\Desktop\\Cursos\\C#\\CodigoEstudiante - Sistema C# Angular 14\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
+              "C:\\Users\\Diego D\\Desktop\\Cursos\\C\\CodigoEstudiante - Sistema C Angular 14\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
+                "projectPath": "C:\\Users\\Diego D\\Desktop\\Cursos\\C\\CodigoEstudiante - Sistema C Angular 14\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
               },
-              "C:\\Users\\Diego D\\Desktop\\Cursos\\C#\\CodigoEstudiante - Sistema C# Angular 14\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
-                "projectPath": "C:\\Users\\Diego D\\Desktop\\Cursos\\C#\\CodigoEstudiante - Sistema C# Angular 14\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
+              "C:\\Users\\Diego D\\Desktop\\Cursos\\C\\CodigoEstudiante - Sistema C Angular 14\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+                "projectPath": "C:\\Users\\Diego D\\Desktop\\Cursos\\C\\CodigoEstudiante - Sistema C Angular 14\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
               }
             }
           }

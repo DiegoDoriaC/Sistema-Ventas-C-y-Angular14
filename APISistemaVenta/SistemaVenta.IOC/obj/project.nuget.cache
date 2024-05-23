@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kgjs86Fhvpf82Dij+03JU8XZkLaigHmq2WmvT+7NyxYLxnifYVivk0wPg/NX0pPU2LuVxHgTTgjHFsRqVTdXsA==",
+  "dgSpecHash": "sICRB3pNvb8978/BZQ8O8scpTGeI+hV/HsqTxNKfsUQ8eCTl1QqVacoBvGo2yYChu+HqVuLv+8nbwB15ux5n9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Diego D\\Desktop\\Cursos\\C#\\CodigoEstudiante - Sistema C# Angular 14\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+  "projectFilePath": "C:\\Users\\Diego D\\Desktop\\Cursos\\C\\CodigoEstudiante - Sistema C Angular 14\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diego D\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Diego D\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

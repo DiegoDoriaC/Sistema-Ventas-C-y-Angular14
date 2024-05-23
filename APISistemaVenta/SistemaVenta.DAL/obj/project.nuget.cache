@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J2U18Z7hUSK2lHT0vGPcAyBOkUy61A+p2HJ1vk09p8VwiL9oWb7GfnvGnUXELPQlfpbqiQ/gsZiZqMR99pDpqA==",
+  "dgSpecHash": "TnKIfpzdQ8YSx90AS0KNcbjo7BOsnIt1jeLIYG2DV8vTzzpaiKWDKB1chKxeIeWOV6Jk+TkDdYOxXkJWc9hUWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Diego D\\Desktop\\Cursos\\C#\\CodigoEstudiante - Sistema C# Angular 14\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
+  "projectFilePath": "C:\\Users\\Diego D\\Desktop\\Cursos\\C\\CodigoEstudiante - Sistema C Angular 14\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diego D\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Diego D\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
