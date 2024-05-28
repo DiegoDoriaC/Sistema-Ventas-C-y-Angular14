@@ -67,8 +67,7 @@ namespace SistemaVenta.Utility
 
             #region VentaDTO
             CreateMap<VentaDTO, Venta>()
-                .ForMember(destino => destino.Total, options => options.MapFrom(origen => Convert.ToDecimal(origen.TotalTexto, new CultureInfo("es-PE"))))
-                .ForMember(destino => destino.FechaRegistro, options => options.MapFrom(origen => Convert.ToDateTime(origen.FechaRegistro, new CultureInfo("es-PE"))));
+                .ForMember(destino => destino.Total, options => options.MapFrom(origen => Convert.ToDecimal(origen.TotalTexto, new CultureInfo("es-PE"))));
             #endregion VentaDTO
 
             #region DetalleVenta

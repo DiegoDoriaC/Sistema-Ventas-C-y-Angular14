@@ -70,7 +70,7 @@ namespace SistemaVenta.BLL.Servicios
             IQueryable<Venta> _ventaQuery = await _ventaRepository.Consultar();
             if(_ventaQuery.Count() > 0)
             {
-                var tablaVenta = retornarVentas(_ventaQuery, 7);
+                var tablaVenta = retornarVentas(_ventaQuery, -7);
                 resultado = tablaVenta.GroupBy(v => v.FechaRegistro.Value.Date).OrderBy(g => g.Key)
                     .Select(dv => new { fecha = dv.Key.ToString("dd/MM/yyyy"), total = dv.Count() })
                     .ToDictionary(keySelector: r => r.fecha, elementSelector: r => r.total);

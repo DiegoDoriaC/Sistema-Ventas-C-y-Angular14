@@ -100,13 +100,13 @@ export class VentaComponent implements OnInit {
   registrarVenta(){
     if(this.listaProductosParaVenta.length > 0){
       this.bloquearBotonRegistrar = true;
-      console.log(this.listaProductosParaVenta)
       const request: Venta = {
         tipoPago: this.tipoPagoPorDefecto,
         totalTexto: String(this.totalAPagar.toFixed(2)),
-        detalleVenta: this.listaProductosParaVenta,
-        fechaRegistro: String(Date.now()) 
+        detalleVenta: this.listaProductosParaVenta
+        //ARGEGAR LA FECHA MANUALMENTE
       }
+      console.log(request)
       this._ventaServicio.registrar(request).subscribe({
         next:(response) => {
           if(response.status){
@@ -124,7 +124,7 @@ export class VentaComponent implements OnInit {
         complete:() => {
           this.bloquearBotonRegistrar = false;
         },
-        error:(e) => {}
+        error:(e) => { console.log(e)}
       })
     }
   }
